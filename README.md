@@ -13,7 +13,7 @@
 - Download any links (Magnet/eD2k/FTP) automatically
 - View and clear download history
 
-*[Complete feature list and future plans](https://github.com/magunetto/moviemagnetbot/wiki/Features)*
+*[Complete feature list and future plans](https://github.com/Nileshoo/moviemagnetbot)*
 
 ## How to use it
 
